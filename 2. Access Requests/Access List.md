@@ -7,3 +7,6 @@
 6. Airflow            => Pending
 7. Servers            => Pending
 8. Incidents Page     => Pending
+9. Dremio             => Done 
+10. Jira              => Pending
+11. Putti (?)

@@ -1,0 +1,1 @@
+Complete the NetApp Security Training before Oct 16, 2025, as I am onboarded again newly!
