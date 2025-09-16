@@ -9,6 +9,6 @@
 8. Incidents Page     => Pending
 9. Dremio             => Done 
 10. Jira              => Pending
-11. Putti (?)
+11. Putty (?)
 12. Cline             => Pending
 13. GitHub Co-pilot   => Pending
