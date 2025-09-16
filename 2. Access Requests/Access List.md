@@ -10,3 +10,5 @@
 9. Dremio             => Done 
 10. Jira              => Pending
 11. Putti (?)
+12. Cline             => Pending
+13. GitHub Co-pilot   => Pending
